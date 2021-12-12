@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 KK | BNC |  |
-https://www.youtube.com/channel/UCKVsdeoHExltrWMuK0hOWmg
+https://www.youtube.com/channel/UCKVsdeoHExltrWMuK0hOWmg/live
